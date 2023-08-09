@@ -1,6 +1,6 @@
 # Terminal-Project
 
-This Project aimed to re-create the "terminal" system as found on most operating systems. The system mimics a real terminal and suports the following commands:
+This Project aimed to re-create the "terminal" system as found on most operating systems. The system mimics a real terminal and supports the following commands:
 * "exit" 
 * "cd"
 * "pwd"
